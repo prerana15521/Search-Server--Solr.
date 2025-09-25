@@ -1,0 +1,8 @@
+streamlit
+pysolr
+ollama
+chromadb
+sentence-transformers
+numpy
+pandas
+requests
